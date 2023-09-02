@@ -1,4 +1,4 @@
-# Cover Letter App
+# Cover Letter App for Hiveway
 
 Normal cover letters tend to be a bit boring so I created a cover letter site that also functions as my portfolio and will be customized for each company! This has been deployed with Vercel - You can view it [here](https://cover-letter-app-sigma.vercel.app/)!
 
